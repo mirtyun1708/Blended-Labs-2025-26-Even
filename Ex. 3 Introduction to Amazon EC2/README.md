@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+## Name: MIRTYUNJAY S 
+## Register Number: 212224040190
+## Date of Submission: 22-05-2026
 
 ---
 
@@ -92,37 +92,36 @@ Monitor the EC2 instance using the Monitoring tab. Observe metrics such as CPU u
 
 Terminate the EC2 instance after completing the experiment to avoid unnecessary AWS charges.
 
----
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1.The EC2 Dashboard was accessed through the AWS Management Console to explore its various features.
+2.A new EC2 instance was launched using the Amazon Linux 2 AMI and the t2.micro instance type for
+free-tier eligibility. 
+3.The security group was configured to allow SSH access from the specified IP address and HTTP
+access from all IPs. 
+4.The instance was connected via SSH using the downloaded key pair, and basic operations such as
+stop, start, and reboot were performed. 
+5.Finally, the instance was monitored using the Monitoring tab before being terminated to avoid additional charges.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1113" height="634" alt="555996022-c5c435b9-837d-4fa1-807e-40c75570f5b8" src="https://github.com/user-attachments/assets/a193425f-fc76-424c-93ab-ac0130dd3d62" />
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1111" height="633" alt="555996415-5e16d399-bf95-4657-94b8-a694bad0f804" src="https://github.com/user-attachments/assets/505f138f-1a74-4dc6-97fc-5baac9230c7f" />
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1707" height="927" alt="555997356-b2db223a-64c7-4ea5-84fa-ddf19524e2af" src="https://github.com/user-attachments/assets/f4033992-b9bc-41df-b96c-a8a9a7b93dd1" />
 
 ---
 
